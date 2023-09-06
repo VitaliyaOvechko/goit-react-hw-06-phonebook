@@ -6,12 +6,9 @@ export const Wrapper = styled.div`
   padding: 20px;
 
   background-image: linear-gradient(
-    to left bottom,
-    #054a91,
-    #486fa9,
-    #7795c0,
-    #a7bcd7,
-    #dbe4ee
+    90deg,
+    rgba(81, 81, 119, 1) 0%,
+    rgba(122, 161, 159, 0.7931547619047619) 44%
   );
   border-radius: 5px;
 `;
